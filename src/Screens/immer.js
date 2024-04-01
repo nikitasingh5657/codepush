@@ -42,7 +42,7 @@ const ImmerScreen = () => {
   console.log(tempOb);
   return (
     <View>
-      <Text>ImmerScreen</Text>
+      <Text>ImmerScreen is for Ritik</Text>
     </View>
   );
 };
